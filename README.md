@@ -2,7 +2,7 @@
 
 ## Demo: Current Status
 
-[!demo](./demo.PNG)
+![demo](./demo.PNG)
 
 ## Todo
 
