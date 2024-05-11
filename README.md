@@ -13,8 +13,16 @@ https://replit.com/@UtkarshTiwari33/GHWDataWeek2024#main.py
 ## Install Dependencies
 
 ```bash
-pip install folium
+pip install -r requirements.txt
 ```
+
+---
+*On Linux, if you encounter error messages regarding pycairo, try this:*
+
+```bash
+sudo apt install libcairo2-dev pkg-config python3-dev
+```
+---
 
 ## Build & Run
 
