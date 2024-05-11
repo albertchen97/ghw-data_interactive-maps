@@ -1,6 +1,6 @@
 # MLH GHW Data week: Interactive Maps Visualization
 
-## Demo: Current Status
+## Demo: Current State
 
 ![demo](./demo.PNG)
 
